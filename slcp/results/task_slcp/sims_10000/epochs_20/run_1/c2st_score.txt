@@ -1,0 +1,1 @@
+C2ST Score: tensor([0.9865])

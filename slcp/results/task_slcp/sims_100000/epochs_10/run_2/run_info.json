@@ -1,0 +1,14 @@
+{
+    "task": "slcp",
+    "num_simulations": 100000,
+    "max_epochs": 10,
+    "actual_epochs": null,
+    "run_number": 2,
+    "coverage_stats": {
+        "mean": 0.5708500012662262,
+        "median": 0.5974999964237213,
+        "min": 0.014999999664723873,
+        "max": 1.0
+    },
+    "status": "completed"
+}
